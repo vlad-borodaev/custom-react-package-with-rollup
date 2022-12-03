@@ -47,7 +47,7 @@ Let's assume the package is in a private repository. In that case we could inclu
 ```json
 {
     dependencies: {
-        "my-awesome-package": "git+ssh://git@github.com:IT-premium-team/my-awesome-package.git#1.0.0"
+        "my-awesome-package": "git+ssh://git@github.com:vlad-borodaev/custom-package-with-rollup.git#1.0.0"
     }
 }
 ```
